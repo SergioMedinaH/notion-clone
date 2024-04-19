@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711481367898,
+      "tag": "0000_dear_iceman",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1711482099806,
+      "tag": "0001_low_makkari",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711483273054,
+      "tag": "0002_married_annihilus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1711706426086,
+      "tag": "0003_tranquil_doorman",
+      "breakpoints": true
+    }
+  ]
+}
