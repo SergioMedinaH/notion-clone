@@ -741,6 +741,7 @@ const QuillEditor: React.FC<QuillEditorProps> = ({
         <div
           id="container"
           className="max-w-[800px]"
+          //@ts-ignore
           ref={wrapperRef}
         ></div>
       </div>
